@@ -1,0 +1,96 @@
+body { background: #012F47 url(images/center_span.jpg) repeat-y 50% 0%; padding-top: 15px; }
+#wrapper { background: #FFF url(images/bg-wrapper.png) repeat-x; padding: 0; padding-bottom: 20px; }
+#wrapper_content { background: url(images/header.png) no-repeat; }
+#header { padding-top: 15px; }
+
+#logo_text { margin-top: 60px; }
+
+#menu { margin-top: 20px; }
+#menu ul { border-bottom: 3px solid #CCC; display: block; font-family: 'Average Sans', sans-serif; background: #004263; padding-left: 3px; margin-bottom: 15px; }
+#menu ul li { display: inline-block; vertical-align: bottom; margin: 0 -1px -3px -3px; padding: 0; position: relative; }
+#menu a { border-bottom: 3px solid #CCC; text-decoration: none; padding: 15px 30px; margin: 0; display: inline-block; color: #FFF; font-size: 21px; }
+#menu a:hover { border-bottom: 3px solid #CC3300; background: url(images/menu-hover-bg.gif); color: #CC3300; }
+#menu .active { border-bottom: 3px solid #CC3300; }
+#menu .submenu { display: none; position: absolute; top: 47px; left: -26px; z-index: 15; padding: 0; width: 210px; }
+#menu .submenu li { margin-right: 0; display: block; background-color: #3B3B3B; padding: 0; border: none; }
+#menu .submenu a { display: block; padding: 10px 20px; text-align: left; color: #999; font-size: 16px; }
+#menu .submenu a:hover { background: #CC3300; color: #FFF; }
+#menu ul li:hover > .submenu { display: block; }
+#menu_items { display: block; }
+#tiny_navigation { display: none; padding: 5px 20px; background: #F7F7F7 url('images/tiny_navigation.gif') 95% 50% no-repeat; text-align: left; border: 1px solid #E9E9E9; color: #ACACAC; font-size: 12px; font-weight: bold; cursor: pointer; }
+#tiny_navigation:hover { background: #CC3300 url('images/tiny_navigation_hover.gif') 95% 50% no-repeat; color: #FFF; }
+
+#slider { max-height: 480px; max-width: 1500px; margin-bottom: 10px;}
+
+#about { margin-top: 10px; font-size: 1.1em; }
+#about p { text-align: justify; padding-right: 20px; }
+#about .mission p { padding: 10px 0 10px 25px; font-size: 21px; line-height: 1.3em; font-style: italic; text-align: right; }
+#about h3 { color: #3B3B3B; font-size: 26px; border-bottom: 2px solid #CCC; font-family: 'Average Sans', sans-serif; }
+#about h3 span { border-bottom: 2px solid #CC3300; margin-bottom: -2px; display: inline-block; padding-right: 30px; }
+
+#latest_projects .title { border-bottom: 3px solid #CCC; margin-top: 20px; }
+#latest_projects .title h3 { color: #3B3B3B; font-size: 13px; font-weight: bold; border-bottom: 3px solid #CC3300; margin-bottom: -3px; display: inline-block; padding-right: 20px; }
+#latest_projects .title .more { float: right; font-size: 13px; font-style: italic; margin-top: 8px; }
+#latest_projects .title .more a { color: #666; text-decoration: none; }
+#latest_projects .title .more a:hover { color: #CC3300; }
+
+.project_preview { text-align: center; font-size: 15px; }
+.project_preview a { text-decoration: none; margin-top: 40px; color: #3B3B3B; display: inline-block; padding: 15px 0; border-bottom: 1px solid #CCC; }
+.project_preview a:hover { text-decoration: none; margin-top: 20px; color: #CC3300; background-color: #F6F6F6; padding: 0 0 50px 0; border-bottom: 1px solid #CC3300; }
+.project_preview img { margin-bottom: 10px; }
+.project_preview .location { text-align: center; font-style: italic; font-size: 12px; color: #666; }
+
+#our_clientes { margin-top: 20px; }
+#our_clientes .title { border-bottom: 3px solid #CCC; margin-top: 20px; }
+#our_clientes .title h3 { color: #3B3B3B; font-size: 13px; font-weight: bold; border-bottom: 3px solid #CC3300; margin-bottom: -3px; display: inline-block; padding-right: 20px; }
+
+#footer { color: #C5C5C5; font-size: 13px; background: url(images/footer-bg.jpg) center top no-repeat; padding-top: 15px; }
+#footer ul { list-style-type: none; }
+#footer ul li { margin: 0; padding-left: 10px; }
+#footer .title { font-weight: bold; font-size: 16px; color: #EAEAEA; padding-left: 0; border-bottom: 1px solid #666; }
+#footer .title span { border-bottom: 1px solid #EAEAEA; margin-bottom: -1px; padding-right: 25px; }
+#footer label { display: inline; font-size: 13px; }
+#footer a { color: #C5C5C5; }
+#copy { margin-top: 0; padding-bottom: 10px; font-size: 12px; text-align: center; }
+#snail { float: right; color: #121828; }
+#snail img { width: 150px; }
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width: 767px) {
+    #tiny_navigation { display: block; }
+    #menu_items { display: none; border: 1px solid #E9E9E9; }
+    #menu ul li { display: block; padding: 0; margin: 0; }
+    #menu ul { margin: 0; padding: 0; }
+    #menu ul li a { padding: 10px 20px; border: none; display: block; background-color: #F6F6F6; text-align: left; color: #777; }
+    #menu ul li .active { border: none; }
+    #menu ul li a:hover { background: #F6F6F6; border: none; color: #CC3300; }
+    #menu .submenu { display: block; position: static; width: 100%; padding: 0; }
+    #menu .submenu li { padding-left: 15px; background-color: #F6F6F6; }    
+    #menu .submenu li a:hover { color: #CC3300; background-color: #F6F6F6; }
+}
+
+/* All Mobile Sizes (devices and browser) */
+@media only screen and (max-width: 767px) {
+    #footer { background: none; }    
+}
+
+/**
+ * Common tags
+ */
+img { width: 100%; border: none; }
+h1, h2, h3, h4, h5, h6 { color: #00466d; }
+
+.alignleft { float: left; }
+.alignright { float: right; }
+
+/*
+ * TinyBox2 styles
+ */
+.tbox {position:absolute; display:none; padding:14px 17px; z-index:900}
+.tinner {padding:15px; -moz-border-radius:5px; border-radius:5px; background:#fff url(images/preload.gif) no-repeat 50% 50%; border-right:1px solid #333; border-bottom:1px solid #333; }
+.tmask {position:absolute; display:none; top:0px; left:0px; height:100%; width:100%; background:#000; z-index:800;}
+.tclose {position:absolute; top:0px; right:0px; width:30px; height:30px; cursor:pointer; background:url(images/close.png) no-repeat}
+.tclose:hover {background-position:0 -30px}
+#error {background:#ff6969; color:#fff; text-shadow:1px 1px #cf5454; border-right:1px solid #000; border-bottom:1px solid #000; padding:0;}
+#error .tcontent {padding:10px 14px 11px; border:1px solid #ffb8b8; -moz-border-radius:5px; border-radius:5px}
+#success {background:#1EBE39; color:#fff; text-shadow:1px 1px #1b6116; border-right:1px solid #000; border-bottom:1px solid #000; padding:10; -moz-border-radius:0; border-radius:0; width: 100%;}
