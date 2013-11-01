@@ -1,7 +1,7 @@
 .services_list { margin-top: 20px; }
 .services_list ul li { margin-left: 40px; list-style-image: url('images/arrow.png'); }
 
-.staff-profile { border: 1px solid #CCC; border-radius: 15px; background-color: #fff; margin-top: 20px; padding: 5px; }
+.staff-profile { border: 1px solid #CCC; border-radius: 15px; background-color: #fff; margin-top: 20px; margin-bottom: 50px; padding: 5px; }
 .staff-profile img { margin-right: 5px; width: 90px; border-radius: 10px; float: left; }
 .staff-profile p { float: left; width: 190px; margin: 0; }
 .staff-profile h2 { margin: 0; padding: 0; cursor: pointer; font-size: 21px; }

@@ -25,16 +25,6 @@
                 <li><label>Mobile:</label> 713-206-8974</li>
             </ul>
         </div>
-        <div class="columns four offset-by-one">
-            <ul>
-                <li class="title"><span>Peru Office</span></li>
-                <li>Av. America #435</li>
-                <li>Edificio Jacke, Piso 2</li>
-                <li>Cochabamba - Bolivia</li>
-                <li><label>Office:</label> 832-456-7910</li>
-                <li><label>Mobile:</label> 713-206-8974</li>
-            </ul>
-        </div>
         <div class="clear"></div>
         <div id="copy">ZEPS, LLC &copy 2013  &nbsp; - &nbsp;  All Rights Reserved</div>
         <!--<div id="snail">Web Design &raquo; <img src="images/smartsnail.png" /></div>-->

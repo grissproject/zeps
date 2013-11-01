@@ -37,6 +37,17 @@
     <!-- Personal files -->
     <link href="styles.css" rel="stylesheet" type="text/css">
     <link href="styles_internal.css" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript">
+        function menu_over(item) {
+            $('.' + item + ' img')[0].src = 'images/buttons/' + item + '_on.png'
+        }
+
+        function menu_out(item) {
+            if (item == menu_actual) return;
+            $('.' + item + ' img')[0].src = 'images/buttons/' + item + '.png'
+        }
+    </script>
 </head>
 <body>
 <div id="wrapper" class="container">
@@ -54,27 +65,58 @@
                 if (!isset($menu_actual)) {
                     $menu_actual = 'home_menu';
                 }
-                echo "<style type='text/css'>#menu .$menu_actual { border-bottom: 3px solid #CC3300; }</style>";
                 ?>
+                <script type="text/javascript">
+                    menu_actual = '<?php echo $menu_actual; ?>';
+                </script>
                 <div id="tiny_navigation" onclick="$('#menu_items').toggle();">NAVIGATION</div>
                 <div id="menu_items">
                     <ul>
-                        <li><a href="index.php" class="home_menu">Home</a></li>
                         <li>
-                            <a href="service_engineering.php" class="services_menu">Services</a>
+                            <a href="index.php" class="home_menu" onmouseover="menu_over('home_menu')" onmouseout="menu_out('home_menu')">
+                                <img src="images/buttons/home_menu.png" alt="Home" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="services.php" class="services_menu" onmouseover="menu_over('services_menu')" onmouseout="menu_out('services_menu')">
+                                <img src="images/buttons/services_menu.png" alt="Services" />
+                            </a>
                             <ul class="submenu">
                                 <li><a href="service_engineering.php">Engineering</a></li>
-                                <li><a href="service_engineering.php">Field Services</a></li>
-                                <li><a href="service_engineering.php">Electrical Studies</a></li>
-                                <li><a href="service_engineering.php">Other Services</a></li>
+                                <li><a href="service_field.php">Field Services</a></li>
+                                <li><a href="service_studies.php">Electrical Studies</a></li>
+                                <li><a href="service_other.php">Other Services</a></li>
                             </ul>
                         </li>
-                        <li><a href="staff.php" class="staff_menu">Staff</a></li>
-                        <li><a href="portfolio.php" class="portfolio_menu">Portfolio</a></li>
-                        <li><a href="jobs.php" class="jobs_menu">Jobs</a></li>
-                        <li><a href="contact.php" class="contact_menu">Contact</a></li>
+                        <li>
+                            <a href="staff.php" class="staff_menu" onmouseover="menu_over('staff_menu')" onmouseout="menu_out('staff_menu')">
+                                <img src="images/buttons/staff_menu.png" alt="Staff" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="portfolio.php" class="portfolio_menu" onmouseover="menu_over('portfolio_menu')" onmouseout="menu_out('portfolio_menu')">
+                                <img src="images/buttons/portfolio_menu.png" alt="Portfolio" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="jobs.php" class="jobs_menu" onmouseover="menu_over('jobs_menu')" onmouseout="menu_out('jobs_menu')">
+                                <img src="images/buttons/jobs_menu.png" alt="Jobs" />
+                            </a>
+                        </li>
+                        <li>
+                            <a href="contact.php" class="contact_menu" onmouseover="menu_over('contact_menu')" onmouseout="menu_out('contact_menu')">
+                                <img src="images/buttons/contact_menu.png" alt="Contact" />
+                            </a>
+                        </li>
                     </ul>
                 </div>
             </div>
+
+            <script type="text/javascript">
+            $(window).load(function() {
+                menu_over(menu_actual);
+            });
+            </script>
+
             <div class="clear"></div>
         </div>

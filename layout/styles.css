@@ -8,13 +8,11 @@ body { background: #012F47 url(images/center_span.jpg) repeat-y 50% 0%; padding-
 #menu { margin-top: 20px; }
 #menu ul { border-bottom: 3px solid #CCC; display: block; font-family: 'Average Sans', sans-serif; background: #004263; padding-left: 3px; margin-bottom: 15px; }
 #menu ul li { display: inline-block; vertical-align: bottom; margin: 0 -1px -3px -3px; padding: 0; position: relative; }
-#menu a { border-bottom: 3px solid #CCC; text-decoration: none; padding: 15px 30px; margin: 0; display: inline-block; color: #FFF; font-size: 21px; }
-#menu a:hover { border-bottom: 3px solid #CC3300; background: url(images/menu-hover-bg.gif); color: #CC3300; }
-#menu .active { border-bottom: 3px solid #CC3300; }
-#menu .submenu { display: none; position: absolute; top: 47px; left: -26px; z-index: 15; padding: 0; width: 210px; }
-#menu .submenu li { margin-right: 0; display: block; background-color: #3B3B3B; padding: 0; border: none; }
+#menu a { border-bottom: 3px solid #CCC; text-decoration: none; padding: 10px 4px; margin: 0; display: inline-block; color: #FFF; font-size: 21px; }
+#menu .submenu { display: none; position: absolute; top: 45px; left: -23px; z-index: 15; padding: 0; width: 210px; }
+#menu .submenu li { margin-right: 0; display: block; background-color: #004263; padding: 0; border: none; }
 #menu .submenu a { display: block; padding: 10px 20px; text-align: left; color: #999; font-size: 16px; }
-#menu .submenu a:hover { background: #CC3300; color: #FFF; }
+#menu .submenu a:hover { color: #FFF; }
 #menu ul li:hover > .submenu { display: block; }
 #menu_items { display: block; }
 #tiny_navigation { display: none; padding: 5px 20px; background: #F7F7F7 url('images/tiny_navigation.gif') 95% 50% no-repeat; text-align: left; border: 1px solid #E9E9E9; color: #ACACAC; font-size: 12px; font-weight: bold; cursor: pointer; }
@@ -24,12 +22,12 @@ body { background: #012F47 url(images/center_span.jpg) repeat-y 50% 0%; padding-
 
 #about { margin-top: 10px; font-size: 1.1em; }
 #about p { text-align: justify; padding-right: 20px; }
-#about .mission p { padding: 10px 0 10px 25px; font-size: 21px; line-height: 1.3em; font-style: italic; text-align: right; }
+#about .mission p { padding: 10px 0 10px 25px; font-size: 21px; line-height: 1.3em; font-style: italic; text-align: justify; }
 #about h3 { color: #3B3B3B; font-size: 26px; border-bottom: 2px solid #CCC; font-family: 'Average Sans', sans-serif; }
 #about h3 span { border-bottom: 2px solid #CC3300; margin-bottom: -2px; display: inline-block; padding-right: 30px; }
 
 #latest_projects .title { border-bottom: 3px solid #CCC; margin-top: 20px; }
-#latest_projects .title h3 { color: #3B3B3B; font-size: 13px; font-weight: bold; border-bottom: 3px solid #CC3300; margin-bottom: -3px; display: inline-block; padding-right: 20px; }
+#latest_projects .title h3 { color: #3B3B3B; font-size: 18px; font-weight: normal; border-bottom: 3px solid #CC3300; margin-bottom: -3px; display: inline-block; padding-right: 20px; }
 #latest_projects .title .more { float: right; font-size: 13px; font-style: italic; margin-top: 8px; }
 #latest_projects .title .more a { color: #666; text-decoration: none; }
 #latest_projects .title .more a:hover { color: #CC3300; }
@@ -42,7 +40,7 @@ body { background: #012F47 url(images/center_span.jpg) repeat-y 50% 0%; padding-
 
 #our_clientes { margin-top: 20px; }
 #our_clientes .title { border-bottom: 3px solid #CCC; margin-top: 20px; }
-#our_clientes .title h3 { color: #3B3B3B; font-size: 13px; font-weight: bold; border-bottom: 3px solid #CC3300; margin-bottom: -3px; display: inline-block; padding-right: 20px; }
+#our_clientes .title h3 { color: #3B3B3B; font-size: 18px; font-weight: normal; border-bottom: 3px solid #CC3300; margin-bottom: -3px; display: inline-block; padding-right: 20px; }
 
 #footer { color: #C5C5C5; font-size: 13px; background: url(images/footer-bg.jpg) center top no-repeat; padding-top: 15px; }
 #footer ul { list-style-type: none; }

@@ -13,19 +13,21 @@
 
 <div id="about">
     <div class="columns nine">
-        <p>Zalles Electrical Power Services, LLC (ZEPS, LLC) provides services performed by skilled and experienced engineers with more than 20 years of extensive experience in electrical power projects starting from the conceptual design, developing the engineering, performing electrical studies, installing, commissioning and start up of electrical installations up to 500 kV.</p>
+        <p>Zalles Electrical Power Services, LLC (ZEPS, LLC) provides services performed by skilled and experienced engineers with more than 25 years of extensive experience in electrical power projects starting from the conceptual design, developing the engineering, performing electrical studies, assembling, commissioning and starting up electrical installations up to 500 kV.</p>
 
-        <p>Our team provides "One Stop Shop" for customers need's regarding high voltage projects. "One Stop Shop" to have the electrical studies, design, technical specifications, management of the procurement, and performs the supervision during construction, commissioning and start up.</p>
+        <p>Our team provides "One Stop Shop" for customers need's regarding high voltage projects. This concept allows us to start from the conception through the detailed design, submittal and approval, overviewing procurement, construction and assembly supervision, commissioning to Start Up.</p>
 
-        <p>ZEPS LLC provides consulting services regarding High Voltage Electrical Projects for United States and Worldwide.</p>
+        <p>Our past experience as utility engineers provides us develop a detailed engineering package regarding High Voltage Electrical Projects for United States and Worldwide.</p>
+
+        <p>Our past experience as utility engineers and working worldwide provides us an advantage to understand complex substation configurations and challenges regarding engineering, construction, operations and maintenance issues.</p>
     </div>
     <div class="mission columns seven">
         <h3><span>Mission</span></h3>
-        <p>To be the firm of choice in the markets we serve. We deliver value-added solutions in the electrical power field.</p>
+        <p>To be the firm of choice in the electrical power field, delivering technical excellence, cost efficiency and exceed client expectation.</p>
     </div>
-    <div class="mission columns seven">
+    <div class="mission columns seven" style="margin-top: 30px;">
         <h3><span>Commitment</span></h3>
-        <p>To provide high quality and innovative services.</p>
+        <p>We are committed to provide high quality and innovative services to ensure our clients' expectations with our services.</p>
     </div>
 </div>
 
@@ -33,7 +35,7 @@
 <div id="latest_projects">
     <div class="columns sixteen">
         <div class="title">
-            <div class="more"><a href="#">View all portfolio &rarr;</a></div>
+            <div class="more"><a href="portfolio.php">View all portfolio &rarr;</a></div>
             <h3>LATEST PROJECTS</h3>
         </div>
     </div>
