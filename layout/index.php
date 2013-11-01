@@ -70,13 +70,4 @@
     </div>
 </div>
 
-<div id="our_clientes">
-    <div class="columns sixteen">
-        <div class="title">
-            <h3>OUR CLIENTS</h3>
-        </div>
-        <img src="images/logos.png" />
-    </div>
-</div>
-
 <?php include 'footer.php' ?>
