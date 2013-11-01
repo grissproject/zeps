@@ -99,8 +99,8 @@
                             </a>
                         </li>
                         <li>
-                            <a href="jobs.php" class="jobs_menu" onmouseover="menu_over('jobs_menu')" onmouseout="menu_out('jobs_menu')">
-                                <img src="images/buttons/jobs_menu.png" alt="Jobs" />
+                            <a href="careers.php" class="careers_menu" onmouseover="menu_over('careers_menu')" onmouseout="menu_out('careers_menu')">
+                                <img src="images/buttons/careers_menu.png" alt="Careers" />
                             </a>
                         </li>
                         <li>

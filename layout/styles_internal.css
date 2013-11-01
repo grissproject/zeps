@@ -21,7 +21,7 @@
 #project-content img { cursor: pointer; border: 5px solid #FFF; }
 #project-content img:hover { border: 5px solid #CCC }
 
-#jobs p { margin-left: 20px; }
-#jobs ul li { margin-left: 50px; list-style: circle; }
+#careers p { margin-left: 20px; }
+#careers ul li { margin-left: 50px; list-style: circle; }
 
 #contact textarea { width: 100%; }
