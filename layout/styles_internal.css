@@ -11,15 +11,31 @@
 
 #staff-details ul li { list-style-image: url('images/arrow.png'); margin-left: 30px; }
 
-#projects-list { background-color: #fff; border-radius: 15px; padding: 40px 10px; border: 1px solid #CCC; }
+#projects-list { background-color: #fff; border-radius: 15px; padding: 20px 10px; border: 1px solid #CCC; }
+#projects-list .title { color: #999; margin: 0; font-size: 17px; }
 #projects-list ul { padding: 0; font-size: 16px; }
-#projects-list ul li { list-style: none; padding: 20px 15px; border-top: 1px solid #EAEAEA; margin: 0; }
-#projects-list ul li:hover { cursor: pointer; background-color: #CCC; padding-left: 25px; background: url(images/menu-hover-bg.gif); }
+#projects-list ul li { list-style: none; margin: 0; position: relative; }
+#projects-list ul li a { text-decoration: none; padding: 15px; display: block; color: #444; border-top: 1px solid #EAEAEA; }
+#projects-list ul li a:hover { padding-left: 25px;  border-top: 1px solid #999; background-color: #F3F3F3; }
 #projects-list .active { background: url('images/arrow.png') no-repeat 10px 50%; padding-left: 35px; }
 #projects-list .active:hover { background: url('images/arrow.png') no-repeat 10px 50%; padding-left: 35px; }
 
+#projects-list .sublist { display: none; position: absolute; top: -4px; left: 165px; padding-bottom: 8px; width: 210px; border: 1px solid #999; border-left: none; z-index: 15; background-color: #F3F3F3; }
+#projects-list .sublist li { margin-right: 0; display: block; background-color: #FFF; padding: 0; border: none; }
+#projects-list .sublist a { padding: 15px; text-align: left; color: #444; font-size: 15px; background-color: #F3F3F3; }
+#projects-list .sublist a:hover { padding: 15px 5px 15px 25px; border-top: 1px solid #EAEAEA; }
+#projects-list ul li:hover > .sublist { display: block;  }
+
 #project-content img { cursor: pointer; border: 5px solid #FFF; }
 #project-content img:hover { border: 5px solid #CCC }
+
+#project-content h2 { margin-bottom: 8px; border-bottom: 1px solid #CCC; }
+#project-customer { background: url('images/customer.png') no-repeat; padding: 5px 15px 5px 45px; font-size: 18px; color: #00466D; font-style: italic; float: left; height: 35px; margin-left: 25px; }
+#project-location { background: url('images/location_icon.png') no-repeat; padding: 5px 0 5px 30px; font-size: 14px; color: #00466D; font-style: italic; float: left; height: 35px; margin-left: 25px; }
+#project-content ul { clear: both; font-size: 15px; margin-left:  30px; }
+#project-content ul li { margin-left: 35px; list-style-image: url('images/arrow.png'); }
+#project-content ul li ul { margin-left: 15px; }
+#project-content ul li ul li { margin-left: 20px; list-style-image: url('images/bullet.png'); }
 
 #careers p { margin-left: 20px; }
 #careers ul li { margin-left: 50px; list-style: circle; }

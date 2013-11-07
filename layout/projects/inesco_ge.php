@@ -1,4 +1,6 @@
 <h2>INESCO/GE</h2>
+<img src="images/customer5.png" style="width: 35px; border: none;" /> APR Energy 
+<img src="images/location_icon.png" style="width: 25px; border: none;" /> Cochabamba, Bolivia
 <p>
     Commissioning and Start Up of a 230 kV Substation and BOP 
     for Carrasco Power Plant equipped with a TM2500+ GE gas turbine in Carrasco, Bolivia
