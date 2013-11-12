@@ -30,6 +30,7 @@
 #project-content img:hover { border: 5px solid #CCC }
 
 #project-content h2 { margin-bottom: 8px; border-bottom: 1px solid #CCC; }
+#project-content h3 { margin-top: 20px; margin-left: 25px; font-size: 21px; color: #444; }
 #project-customer { background: url('images/customer.png') no-repeat; padding: 5px 15px 5px 45px; font-size: 18px; color: #00466D; font-style: italic; float: left; height: 35px; margin-left: 25px; }
 #project-location { background: url('images/location_icon.png') no-repeat; padding: 5px 0 5px 30px; font-size: 14px; color: #00466D; font-style: italic; float: left; height: 35px; margin-left: 25px; }
 #project-content ul { clear: both; font-size: 15px; margin-left:  30px; }

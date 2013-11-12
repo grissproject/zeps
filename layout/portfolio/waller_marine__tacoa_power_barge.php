@@ -9,3 +9,10 @@
   <li>Supervision of commissioning for the 230 kV High Voltage Equipment such as: power transformer, Circuit breaker,   air disconnect switches, current transformers, capacitive voltage transformers, protection panels, etc.</li>
   <li>Startup of the entire installation and interconnection to Corpoelec grid.</li>
 </ul>
+
+<div id="photos">
+  <div class="four columns alpha">
+    <img src="images/photos/waller_marine_power_barge/1-thumb.jpg" onclick="show_image('images/photos/waller_marine_power_barge/1.jpg')" />
+  </div>
+  <div class="clear"></div>
+</div>

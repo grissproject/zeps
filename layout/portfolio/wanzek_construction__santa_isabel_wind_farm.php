@@ -16,3 +16,57 @@
   </li>
   <li>Installation successfully put in service in record time due customer’s requirements.</li>
 </ul>
+
+<div id="photos">
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2406-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2406.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2425-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2425.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2430-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2430.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2440-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2440.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2444-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2444.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2459-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2459.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2472-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2472.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2489-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2489.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2501-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2501.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2505-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2505.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2521-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2521.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2529-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2529.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2535-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2535.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/wanzek_santa_isabel/DSC_2539-thumb.JPG" onclick="show_image('images/photos/wanzek_santa_isabel/DSC_2539.JPG')" />
+  </div>
+  <div class="clear"></div>
+</div>

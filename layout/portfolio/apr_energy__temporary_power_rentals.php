@@ -13,21 +13,3 @@
   <li>30 MW Power Plant and 33 kV Substation for Burkina Faso Project.</li>
   <li>Engineering and commissioning support for   APR’s temporary power plants in Argentina, Peru, Ecuador, Costa Rica, Haiti and Botswana.</li>
 </ul>
-
-<!--
-<div class="four columns alpha">
-    <img src="images/photos/p2.jpg" onclick="show_image('images/photos/p2.jpg')" />
-</div>
-<div class="four columns alpha">
-    <img src="images/photos/p3.jpg" onclick="show_image('images/photos/p3.jpg')" />
-</div>
-<div class="four columns alpha">
-    <img src="images/photos/p4.jpg" onclick="show_image('images/photos/p4.jpg')" />
-</div>
-
-<div class="clear"></div>
-
-<div class="four columns alpha">
-    <img src="images/photos/p5.jpg" onclick="show_image('images/photos/p5.jpg')" />
-</div>
--->

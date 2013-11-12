@@ -28,3 +28,68 @@
     </ul>
   </li>
 </ul>
+
+<div id="photos">
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3536-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3536.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3538-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3538.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3539-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3539.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3541-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3541.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3542-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3542.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3546-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3546.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3548-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3548.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3551-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3551.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3552-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3552.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3554-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3554.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3556-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3556.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3558-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3558.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3565-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3565.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3523-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3523.JPG')" />
+  </div>
+  <div class="four columns alpha">
+    <img src="images/photos/gulfwind/SAM_3529-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3529.JPG')" />
+  </div>
+  <div class="clear"></div>
+
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3525-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3525.JPG')" />
+  </div>
+  <div class="four columns alpha">
+      <img src="images/photos/gulfwind/SAM_3528-thumb.JPG" onclick="show_image('images/photos/gulfwind/SAM_3528.JPG')" />
+  </div>
+  <div class="clear"></div>
+</div>
