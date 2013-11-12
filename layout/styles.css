@@ -32,6 +32,9 @@ body { background: #012F47 url(images/center_span.jpg) repeat-y 50% 0%; padding-
 #latest_projects .title .more a { color: #666; text-decoration: none; }
 #latest_projects .title .more a:hover { color: #CC3300; }
 
+#loading-project { text-align: center; font-style: italic; font-size: 18px; margin-top: 10px; }
+#loading-project img { width: 32px; margin-bottom: 15px; }
+
 .project_preview { text-align: center; font-size: 15px; margin-bottom: 20px; }
 .project_preview a { text-decoration: none; margin-top: 40px; color: #3B3B3B; display: inline-block; padding: 15px 0; border-bottom: 1px solid #CCC; }
 .project_preview a:hover { text-decoration: none; margin-top: 20px; color: #CC3300; background-color: #F6F6F6; padding: 0 0 50px 0; border-bottom: 1px solid #CC3300; }

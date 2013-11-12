@@ -25,6 +25,7 @@ else {
     $.ajax({
             url : 'portfolio/' + id + '.php',
             success: function(datos){
+                $("#loading-project").hide();
                 $("#project-content").html(datos);
                 $("#project-content").fadeIn();
             }
@@ -187,6 +188,10 @@ else {
 </div>
 
 <div class="twelve columns">
+  <div id="loading-project">
+    <img src="images/ajax-loader.gif" /><br />
+    Loading Project...
+  </div>
   <div id="project-content"></div>
 </div>
 
