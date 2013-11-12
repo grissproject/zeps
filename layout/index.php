@@ -41,31 +41,35 @@
     </div>
 
     <div class="project_preview columns four">
-        <a href="#">
+        <a href="portfolio.php?project=transportadora_de_electricidad__yaguacua_substation">
             <img src="images/photos/p1.jpg" />
-            Electrical Central
-            <div class="location">Houston, EEUU</div>
+            Yaguacua Substation
+            <div class="customer">Transportadora de Electricidad</div>
+            <div class="location">Tarija, Bolivia</div>
         </a>
     </div>
     <div class="project_preview columns four">
-        <a href="#">
+        <a href="portfolio.php?project=arteche__pattern_gulfwind_farm">
             <img src="images/photos/p2.jpg" />
-            XF Substation
-            <div class="location">Portaland, Oregon, EEUU</div>
+            Pattern Gulfwind Farm
+            <div class="customer">Arteche</div>
+            <div class="location">Armstrong, Texas</div>
         </a>
     </div>
     <div class="project_preview columns four">
-        <a href="#">
+        <a href="portfolio.php?project=wanzek_construction__santa_isabel_wind_farm">
             <img src="images/photos/p3.jpg" />
-            Electrical Central
-            <div class="location">Santa Cruz, Bolivia</div>
+            Santa Isabel Wind Farm
+            <div class="customer">Wanzek Construction</div>
+            <div class="location">Santa Isabel, Puerto Rico</div>
         </a>
     </div>
     <div class="project_preview columns four">
-        <a href="#">
+        <a href="portfolio.php?project=waller_marine__tacoa_power_barge">
             <img src="images/photos/p4.jpg" />
-            Field improvement
-            <div class="location">Santiago, Chile</div>
+            Tacoa Power Barge
+            <div class="customer">Waller Marine</div>
+            <div class="location">Tacoa, Venezuela</div>
         </a>
     </div>
 </div>
