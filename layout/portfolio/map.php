@@ -1,1 +1,1 @@
-I am map :)
+<img src="images/map.png" style="margin-top: 20px; border:none;" />
