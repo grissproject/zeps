@@ -22,6 +22,7 @@ include 'header.php';
   </div>
 </div>
 
+<!--
 <div class="one-third column">
   <div class="staff-profile">
     <img src="images/staff/marco_navia.jpg" />
@@ -47,6 +48,7 @@ include 'header.php';
     <div class="clear"></div>
   </div>
 </div>
+-->
 
 <div class="clear"></div>
 
