@@ -1,6 +1,6 @@
 <h2>Station 95</h2>
 
-<div id="project-customer">Iberdrola</div>
+<div id="project-customer">URS</div>
 <div id="project-location">New Jersey, United States</div>
 
 <ul>

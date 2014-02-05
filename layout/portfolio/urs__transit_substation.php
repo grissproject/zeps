@@ -1,6 +1,6 @@
 <h2>Transit Substation</h2>
 
-<div id="project-customer">Iberdrola</div>
+<div id="project-customer">URS</div>
 <div id="project-location">New Jersey, United States</div>
 
 <ul>

@@ -1,4 +1,4 @@
-<h2>Yaguacua Substation Expansion</h2>
+<h2>Tarija Substation Expansion</h2>
 
 <div id="project-customer">Transportadora de Electricidad</div>
 <div id="project-location">Tarija, Bolivia</div>

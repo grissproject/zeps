@@ -8,9 +8,9 @@
 </ul>
 
 <div id="photos">
-  <div class="four columns alpha">
+  <!--<div class="four columns alpha">
     <img src="images/photos/inesco/1-thumb.jpg" onclick="show_image('images/photos/inesco/1.jpg')" />
-  </div>
+  </div>-->
   <div class="four columns alpha">
     <img src="images/photos/inesco/2-thumb.jpg" onclick="show_image('images/photos/inesco/2.jpg')" />
   </div>
@@ -19,8 +19,8 @@
   </div>
   <div class="clear"></div>
 
-  <div class="four columns alpha">
+  <!--<div class="four columns alpha">
     <img src="images/photos/inesco/4-thumb.jpg" onclick="show_image('images/photos/inesco/4.jpg')" />
-  </div>
+  </div>-->
   <div class="clear"></div>
 </div>

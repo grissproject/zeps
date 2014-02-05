@@ -1,4 +1,4 @@
-<h2>Yaguacua Substation</h2>
+<h2>Tarija Substation</h2>
 
 <div id="project-customer">Transportadora de Electricidad</div>
 <div id="project-location">Tarija, Bolivia</div>
@@ -29,43 +29,36 @@
     <img src="images/photos/tde_yaguacua/DSCN1553-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1553.JPG')" />
   </div>
   <div class="four columns alpha">
-    <img src="images/photos/tde_yaguacua/DSCN1554-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1554.JPG')" />
-  </div>
-  <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1555-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1555.JPG')" />
   </div>
-  <div class="clear"></div>
-
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1564-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1564.JPG')" />
   </div>
+  <div class="clear"></div>
+
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1565-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1565.JPG')" />
   </div>
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1550-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1550.JPG')" />
   </div>
-  <div class="clear"></div>
-
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1567-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1567.JPG')" />
   </div>
+  <div class="clear"></div>
+
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1568-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1568.JPG')" />
   </div>
-  <div class="four columns alpha">
-    <img src="images/photos/tde_yaguacua/DSCN1569-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1569.JPG')" />
-  </div>
-  <div class="clear"></div>
-
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1570-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1570.JPG')" />
   </div>
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1571-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1571.JPG')" />
   </div>
+  <div class="clear"></div>
+
   <div class="four columns alpha">
     <img src="images/photos/tde_yaguacua/DSCN1573-thumb.JPG" onclick="show_image('images/photos/tde_yaguacua/DSCN1573.JPG')" />
   </div>
-  <div class="clear"></div>
 </div>

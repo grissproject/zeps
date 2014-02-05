@@ -1,6 +1,6 @@
 <h2>Pattern Gulfwind Farm</h2>
 
-<div id="project-customer">Arteche</div>
+<div id="project-customer">Inelap/Arteche</div>
 <div id="project-location">Armstrong, Texas</div>
 
 <ul>

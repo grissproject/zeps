@@ -72,13 +72,6 @@ else {
       </li>
 
       <li>
-        <a href="portfolio.php?project=arteche" id="arteche">Arteche</a>
-        <ul class="sublist">
-          <li><a href="portfolio.php?project=arteche__pattern_gulfwind_farm" id="arteche__pattern_gulfwind_farm">Pattern Gulfwind Farm</a></li>
-        </ul>
-      </li>
-
-      <li>
         <a href="portfolio.php?project=control_infotech" id="control_infotech">Control Infotech</a>
         <ul class="sublist">
           <li><a href="portfolio.php?project=control_infotech__tyasa_project" id="control_infotech__tyasa_project">TYASA Project</a></li>
@@ -116,10 +109,9 @@ else {
       </li>
 
       <li>
-        <a href="portfolio.php?project=iberdrola" id="iberdrola">Iberdrola</a>
+        <a href="portfolio.php?project=inelap_arteche" id="inelap_arteche">Inelap/Arteche</a>
         <ul class="sublist">
-          <li><a href="portfolio.php?project=iberdrola__station_95" id="iberdrola__station_95">Station 95</a></li>
-          <li><a href="portfolio.php?project=iberdrola__transit_substation" id="iberdrola__transit_substation">Transit Substation</a></li>
+          <li><a href="portfolio.php?project=inelap_arteche__pattern_gulfwind_farm" id="inelap_arteche__pattern_gulfwind_farm">Pattern Gulfwind Farm</a></li>
         </ul>
       </li>
 
@@ -165,8 +157,16 @@ else {
       <li>
         <a href="portfolio.php?project=transportadora_de_electricidad" id="transportadora_de_electricidad">Transportadora de Electricidad</a>
         <ul class="sublist">
-          <li><a href="portfolio.php?project=transportadora_de_electricidad__yaguacua_substation" id="transportadora_de_electricidad__yaguacua_substation">Yaguacua Substation</a></li>
-          <li><a href="portfolio.php?project=transportadora_de_electricidad__yaguacua_substation_expansion" id="transportadora_de_electricidad__yaguacua_substation_expansion">Yaguacua Substation Expansion</a></li>
+          <li><a href="portfolio.php?project=transportadora_de_electricidad__tarija_substation" id="transportadora_de_electricidad__yaguacua_substation">Tarija Substation</a></li>
+          <li><a href="portfolio.php?project=transportadora_de_electricidad__tarija_substation_expansion" id="transportadora_de_electricidad__yaguacua_substation_expansion">Tarija Substation Expansion</a></li>
+        </ul>
+      </li>
+
+      <li>
+        <a href="portfolio.php?project=urs" id="urs">URS</a>
+        <ul class="sublist">
+          <li><a href="portfolio.php?project=urs__station_95" id="urs__station_95">Station 95</a></li>
+          <li><a href="portfolio.php?project=urs__transit_substation" id="urs__transit_substation">Transit Substation</a></li>
         </ul>
       </li>
 
