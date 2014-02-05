@@ -6,7 +6,11 @@
         <img src="images/photos/2.jpg" alt="" /> 
         <img src="images/photos/3.jpg" alt="" />
         <img src="images/photos/4.jpg" alt="" />
-        <img src="images/photos/5.jpg" alt="" />
+        <img src="images/photos/6.jpg" alt="" />
+        <img src="images/photos/7.jpg" alt="" />
+        <img src="images/photos/8.jpg" alt="" />
+        <img src="images/photos/9.jpg" alt="" />
+        <img src="images/photos/10.jpg" alt="" />
     </div>
 </div>
 <div class="clear"></div>
@@ -41,18 +45,18 @@
     </div>
 
     <div class="project_preview columns four">
-        <a href="portfolio.php?project=transportadora_de_electricidad__yaguacua_substation">
+        <a href="portfolio.php?project=transportadora_de_electricidad__tarija_substation">
             <img src="images/photos/p1.jpg" />
-            Yaguacua Substation
+            Tarija Substation
             <div class="customer">Transportadora de Electricidad</div>
             <div class="location">Tarija, Bolivia</div>
         </a>
     </div>
     <div class="project_preview columns four">
-        <a href="portfolio.php?project=arteche__pattern_gulfwind_farm">
+        <a href="portfolio.php?project=inelap_arteche__pattern_gulfwind_farm">
             <img src="images/photos/p2.jpg" />
             Pattern Gulfwind Farm
-            <div class="customer">Arteche</div>
+            <div class="customer">Inelap/Arteche</div>
             <div class="location">Armstrong, Texas</div>
         </a>
     </div>
