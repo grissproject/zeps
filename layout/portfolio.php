@@ -103,7 +103,7 @@ else {
       <li>
         <a href="portfolio.php?project=ende" id="ende">Empresa Nacional De Electricidad (ENDE)</a>
         <ul class="sublist">
-          <li><a href="portfolio.php?project=ende__yucumo_san_borja_san_ignacio" id="ende__yucumo_san_borja_san_ignacio">Yucumo, San Borja y San Ignacio de Moxos Substations</a></li>
+          <li><a href="portfolio.php?project=ende__yucumo_san_borja_san_ignacio" id="ende__yucumo_san_borja_san_ignacio">Yucumo, San Borja and San Ignacio de Moxos Substations</a></li>
           <li><a href="portfolio.php?project=ende__trinidad_moxos_substations" id="ende__trinidad_moxos_substations">Trinidad and Moxos Substations</a></li>
         </ul>
       </li>
@@ -150,7 +150,7 @@ else {
         <ul class="sublist">
           <li><a href="portfolio.php?project=tecnicas_reunidas__campo_margarita_phase_ii" id="tecnicas_reunidas__campo_margarita_phase_ii">Campo Margarita Phase II</a></li>
           <li><a href="portfolio.php?project=tecnicas_reunidas__cpf_phase_ii_project" id="tecnicas_reunidas__cpf_phase_ii_project">CPF Phase II Project</a></li>
-          <li><a href="portfolio.php?project=tecnicas_reunidas__cpf_phase_ii_project_2" id="tecnicas_reunidas__cpf_phase_ii_project_2">CPF Phase II Project</a></li>
+          <!--<li><a href="portfolio.php?project=tecnicas_reunidas__cpf_phase_ii_project_2" id="tecnicas_reunidas__cpf_phase_ii_project_2">CPF Phase II Project</a></li>-->
         </ul>
       </li>
 

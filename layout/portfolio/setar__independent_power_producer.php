@@ -1,7 +1,7 @@
 <h2>Independent Power Producer</h2>
 
 <div id="project-customer">Servicios Electricos Tarija (SETAR)</div>
-<div id="project-location">Yacuiba, Bolivia</div>
+<div id="project-location">Yacuiba, Tarija, Bolivia</div>
 
 <ul>
   <li>

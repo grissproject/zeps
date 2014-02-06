@@ -20,7 +20,7 @@
 #projects-list .mouseover    { padding-left: 25px; padding-right: 5px; border: 1px solid #999; background: url(images/menu-hover-bg.gif); }
 #projects-list .active { background: url('images/arrow.png') no-repeat 10px 50%; padding-left: 35px; }
 
-#projects-list .sublist { display: none; position: absolute; top: -4px; left: 165px; padding-bottom: 8px; width: 210px; border: 1px solid #999; border-left: none; background: url(images/menu-hover-bg.gif); }
+#projects-list .sublist { display: none; position: absolute; top: -4px; left: 165px; padding-bottom: 8px; width: 210px; border: 1px solid #999; border-left: none; background: url(images/menu-hover-bg.gif); z-index: 15; }
 #projects-list .sublist ul li { margin-right: 0; display: block; padding: 0; border: none; }
 #projects-list .sublist ul li:hover { border: none; }
 #projects-list .sublist a { padding: 15px; text-align: left; color: #444; font-size: 15px; }
@@ -38,6 +38,17 @@
 #project-content ul li { margin-left: 35px; list-style-image: url('images/arrow.png'); }
 #project-content ul li ul { margin-left: 15px; }
 #project-content ul li ul li { margin-left: 20px; list-style-image: url('images/bullet.png'); }
+
+#map-container { width: 700px; position: relative; }
+.location-point { position: absolute; background: url(images/location_icon_orange.png); width: 15px; height: 20px; cursor: pointer; }
+.location-point:hover { margin-top: -2px; }
+.location-point-info { display: none; position: absolute; top: 20px; left: -47px; z-index: 15; padding: 0; width: 210px; background: url(images/location-point-info-bg.png) no-repeat; cursor: default; }
+.location-point-info-content { background-color: #FFF; border: 2px solid #CCC; border-top: none; padding: 5px; margin-top: 20px; }
+.location-point:hover > .location-point-info { display: block; }
+.location-point .location { text-align: center; font-style: italic; font-size: 12px; color: #666; background: url(images/location_icon_mini.png) no-repeat 0 40%; display: inline-block; padding-left: 16px; }
+.location-point .projects { padding-left: 5px; }
+.location-point .project-customer { font-size: 13px; color: #555; }
+.location-point .project { padding-left: 15px; background: url(images/bullet2.png) no-repeat; }
 
 #careers p { margin-left: 20px; }
 #careers ul li { margin-left: 50px; list-style: circle; }

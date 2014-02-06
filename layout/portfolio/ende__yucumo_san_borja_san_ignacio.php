@@ -1,7 +1,7 @@
-<h2>Yucumo, San Borja y San Ignacio de Moxos Substations</h2>
+<h2>Yucumo, San Borja and San Ignacio de Moxos Substations</h2>
 
 <div id="project-customer">Empresa Nacional De Electricidad (ENDE)</div>
-<div id="project-location">Caranavi, Trinidad, Bolivia</div>
+<div id="project-location">Caranavi - Trinidad, Bolivia</div>
 
 <ul>
   <li>
