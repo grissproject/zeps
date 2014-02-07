@@ -3,6 +3,16 @@ $menu_actual = 'services_menu';
 include 'header.php';
 ?>
 
+<div class="slider-wrapper theme-default sixteen columns">
+  <div id="slider" class="nivoSlider">
+    <img src="images/photos/electrical_studies/1.jpg" alt="" />
+    <img src="images/photos/electrical_studies/2.jpg" alt="" />
+    <img src="images/photos/electrical_studies/3.jpg" alt="" />
+    <img src="images/photos/electrical_studies/4.jpg" alt="" />
+  </div>
+</div>
+<div class="clear"></div>
+
 <div class="sixteen columns">
   <div id="services">
     <h1>Electrical Studies Capabilities</h1>

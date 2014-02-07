@@ -3,6 +3,18 @@ $menu_actual = 'services_menu';
 include 'header.php';
 ?>
 
+<div class="slider-wrapper theme-default sixteen columns">
+  <div id="slider" class="nivoSlider">
+    <img src="images/photos/field_services/3.jpg" alt="" />
+    <img src="images/photos/field_services/2.jpg" alt="" />
+    <img src="images/photos/field_services/1.jpg" alt="" />
+    <img src="images/photos/field_services/4.jpg" alt="" />
+    <img src="images/photos/field_services/5.jpg" alt="" />
+    <img src="images/photos/field_services/6.jpg" alt="" />
+  </div>
+</div>
+<div class="clear"></div>
+
 <div class="sixteen columns">
   <div id="services">
     <h1>Field Services</h1>

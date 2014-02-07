@@ -78,7 +78,7 @@
                             </a>
                         </li>
                         <li>
-                            <a href="#" class="services_menu" onmouseover="menu_over('services_menu')" onmouseout="menu_out('services_menu')">
+                            <a href="#" class="services_menu" onmouseover="menu_over('services_menu')" onmouseout="menu_out('services_menu')" style="cursor: default;">
                                 <img src="images/buttons/services_menu.png" alt="Services" />
                             </a>
                             <ul class="submenu">
